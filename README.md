@@ -28,9 +28,7 @@
 </p>
 #
 
-<p align="center"> 
 ![Man_Working_at_his_Desk_GIF_Animation_Loop](https://user-images.githubusercontent.com/98515024/151519352-24a1977e-67d3-4122-806d-db3f5f0748c4.gif)
-</p>
 # 
 
 <h3 align="left">Languages and Tools:</h3>
