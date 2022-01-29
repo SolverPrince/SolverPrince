@@ -1,13 +1,3 @@
-<html>
-<head>
-<body>  
-<marquee behaviour="slide"> HELLO TO ALL! </marquee>
-<marquee behaviour="scroll"> HELLO TO ALL! </marquee>
-<marquee behaviour="alternate"> HELLO TO ALL! </marquee>
-</body>  
-</head>
-</head> 
-
 ![everything-you-need-indside-inspirational-260nw-1830796055](https://user-images.githubusercontent.com/98515024/151513881-2621d7ef-fb77-47cd-88fe-1bb091107685.jpg)
 
 <h1 align="center">Hi 👋, I'm Prince Sareen</h1>
